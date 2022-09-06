@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EremiAna2\\OneDrive - Diageo\\Desktop\\Личное\\С# Лекции\\С# Лекции.csproj",
-      "projectName": "С# Лекции",
-      "projectPath": "C:\\Users\\EremiAna2\\OneDrive - Diageo\\Desktop\\Личное\\С# Лекции\\С# Лекции.csproj",
+      "projectUniqueName": "C:\\Users\\EremiAna2\\OneDrive - Diageo\\Desktop\\Личное\\С# Лекции\\Example_001\\Example_001.csproj",
+      "projectName": "Example_001",
+      "projectPath": "C:\\Users\\EremiAna2\\OneDrive - Diageo\\Desktop\\Личное\\С# Лекции\\Example_001\\Example_001.csproj",
       "packagesPath": "C:\\Users\\EremiAna2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EremiAna2\\OneDrive - Diageo\\Desktop\\Личное\\С# Лекции\\obj\\",
+      "outputPath": "C:\\Users\\EremiAna2\\OneDrive - Diageo\\Desktop\\Личное\\С# Лекции\\Example_001\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EremiAna2\\AppData\\Roaming\\NuGet\\NuGet.Config"
